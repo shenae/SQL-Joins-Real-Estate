@@ -24,7 +24,7 @@ Run the `schema.sql` file using `psql -f schema.sql`. This will create your data
 
 Run the `seed.sql` file using `psql -f seed.sql` to insert the records into the database. You **do not** need to edit the seed file! It has been set up for you.
 
-The database is named `real_estate_db`. Connect to it in psql to test your querries.
+The database is named `real_estate_db`. Connect to it in psql or postico to test your querries.
 
 ## Assignment- Queries
 
@@ -49,4 +49,4 @@ In the `real_estate_queries.sql` file, write queries to do the following:
 
 ## Submission
 
-Homework is due tonight by **11pm**. Look at the [homework submission templete](https://git.generalassemb.ly/wdi-nyc-lambda/lambda-class-info/blob/master/SAMPLE_HW_TEMPLATE.md) if you need a refrehser. Make sure to title your PR with your name.
+Homework is due tonight by **11pm**. Make sure to title your PR with your name. 
