@@ -18,11 +18,11 @@ Fork this repo and clone it locally. `cd` into the newly created directory to ge
 
 ### Part 1- Create database and run schema
 
-Run the `schema.sql` file using `psql -f schema.sql`. This will create your database and set up the schema
+Run the `schema.sql` file on the Command Line using `psql -f schema.sql`. This will create your database and set up the schema
 
 ### Part 2 - Populate database
 
-Run the `seed.sql` file using `psql -f seed.sql` to insert the records into the database. You **do not** need to edit the seed file! It has been set up for you.
+Run the `seed.sql` file on the Command Line using `psql -f seed.sql` to insert the records into the database. You **do not** need to edit the seed file! It has been set up for you.
 
 The database is named `real_estate_db`. Connect to it in psql or postico to test your querries.
 
@@ -49,4 +49,4 @@ In the `real_estate_queries.sql` file, write queries to do the following:
 
 ## Submission
 
-Homework is due tonight by **11pm**. Make sure to title your PR with your name. 
+Homework is due tonight by **11pm**. Make sure to title your PR with your name and fill out your completion/comfortability levels. 
