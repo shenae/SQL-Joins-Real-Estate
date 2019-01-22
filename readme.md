@@ -24,7 +24,7 @@ Run the `schema.sql` file on the Command Line using `psql -f schema.sql`. This w
 
 Run the `seed.sql` file on the Command Line using `psql -f seed.sql` to insert the records into the database. You **do not** need to edit the seed file! It has been set up for you.
 
-The database is named `real_estate_db`. Connect to it in psql or postico to test your querries.
+The database is named `real_estate_db`. Connect to it in psql to test your querries.
 
 ## Assignment- Queries
 
